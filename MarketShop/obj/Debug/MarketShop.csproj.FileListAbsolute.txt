@@ -1,0 +1,12 @@
+F:\Visual Stadio\MarketShop\MarketShop\bin\Debug\MarketShop.exe.config
+F:\Visual Stadio\MarketShop\MarketShop\bin\Debug\MarketShop.exe
+F:\Visual Stadio\MarketShop\MarketShop\bin\Debug\MarketShop.pdb
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.csproj.AssemblyReference.cache
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.csproj.SuggestedBindingRedirects.cache
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.Form1.resources
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.Form2.resources
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.Properties.Resources.resources
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.csproj.GenerateResource.cache
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.csproj.CoreCompileInputs.cache
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.exe
+F:\Visual Stadio\MarketShop\MarketShop\obj\Debug\MarketShop.pdb
